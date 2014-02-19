@@ -11,7 +11,7 @@ module.exports = function (karma) {
         files: [
             'node_modules/sofa-core/dist/sofa.core.js',
             'src/**/*.js',
-            'test/sofa.config.mock.js',
+            'node_modules/sofa-testing/mocks/sofa.config.mock.js',
             'test/**/*.spec.js'
         ],
         exclude: [],
