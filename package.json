@@ -1,6 +1,6 @@
 {
   "name": "sofa-logging-service",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sofa Web SDK logging service component.",
   "main": "dist/sofa.logginService.js",
   "scripts": {
