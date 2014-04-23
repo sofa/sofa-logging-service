@@ -2,8 +2,10 @@
 /* global sofa */
 /* global console */
 /**
- * @name LoggingService
- * @namespace sofa.LoggingService
+ * @sofadoc class
+ * @name sofa.LoggingService
+ * @package sofa-logging-service
+ * @distFile dist/sofa.loggingService.js
  *
  * @description
  * This service abstracts the concrete console interface away. It provides the same
@@ -36,9 +38,9 @@ sofa.define('sofa.LoggingService', function (configService) {
     };
 
     /**
-     * @method info
-     * @memberof sofa.LogingService
-     * @public
+     * @sofadoc method
+     * @name sofa.LoggingService#info
+     * @memberof sofa.LoggingService
      *
      * @description
      * A `console.info()` wrapper to log some info in the console.
@@ -56,9 +58,9 @@ sofa.define('sofa.LoggingService', function (configService) {
     };
 
     /**
-     * @method log
+     * @sofadoc method
+     * @name sofa.LoggingService#log
      * @memberof sofa.LoggingService
-     * @public
      *
      * @description
      * A `console.log()` wrapper to log to console.
@@ -76,9 +78,9 @@ sofa.define('sofa.LoggingService', function (configService) {
     };
 
     /**
-     * @method warn
+     * @sofadoc method
+     * @name sofa.LoggingService#warn
      * @memberof sofa.LoggingService
-     * @public
      *
      * @description
      * A `console.warn()` wrapper to log warnings to console.
@@ -96,9 +98,9 @@ sofa.define('sofa.LoggingService', function (configService) {
     };
 
     /**
-     * @method error
+     * @sofadoc method
+     * @name sofa.LoggingService#error
      * @memberof sofa.LoggingService
-     * @public
      *
      * @description
      * A `console.error()` wrapper to log errors to console.
