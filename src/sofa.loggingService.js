@@ -4,7 +4,9 @@
 /**
  * @sofadoc class
  * @name sofa.LoggingService
+ * @requires sofa.ConfigService
  * @package sofa-logging-service
+ * @requiresPackage sofa-core
  * @distFile dist/sofa.loggingService.js
  *
  * @description
