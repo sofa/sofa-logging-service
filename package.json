@@ -28,7 +28,8 @@
     "url": "https://github.com/sofa/sofa-logging-service/issues"
   },
   "dependencies": {
-    "sofa-core": "0.4.x"
+    "sofa-core": "0.4.x",
+    "grunt-deploy-semver": "^0.3.0"
   },
   "devDependencies": {
     "grunt": "~0.4.3",
