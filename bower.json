@@ -1,24 +1,24 @@
 {
-  "name": "sofa-logging-service",
-  "version": "0.1.4",
-  "homepage": "http://www.sofa.io",
-  "authors": [
-    "Pascal Precht <pascal@couchcommerce.com>"
-  ],
-  "description": "Sofa Web SDK logging service component.",
-  "main": "dist/sofa.loggingService.js",
-  "dependencies": {
-      "sofa-core": "~0.1.x"
-  },
-  "devDependencies": {
-      "sofa-testing": "0.1.x"
-  },
-  "keywords": [
-    "sofa",
-    "sofa.io",
-    "web",
-    "sdk",
-    "service"
-  ],
-  "license": "GPL"
+    "name": "sofa-logging-service",
+    "version": "0.2.0",
+    "homepage": "http://www.sofa.io",
+    "authors": [
+        "Pascal Precht <pascal@couchcommerce.com>"
+    ],
+    "description": "Sofa Web SDK logging service component.",
+    "main": "dist/sofa.loggingService.js",
+    "dependencies": {
+        "sofa-core": "~0.1.x"
+    },
+    "devDependencies": {
+        "sofa-testing": "0.1.x"
+    },
+    "keywords": [
+        "sofa",
+        "sofa.io",
+        "web",
+        "sdk",
+        "service"
+    ],
+    "license": "GPL"
 }
