@@ -1,3 +1,11 @@
+## 0.3.0 (2015-02-17)
+
+
+#### Features
+
+* **sofa.LoggingService:** new build task + Angular module/service ([c5ecb63f](https://github.com/sofa/sofa-logging-service/commit/c5ecb63f09cba8b88c9f7aac264dedf2705b4077))
+
+
 <a name="0.3.0"></a>
 ## 0.3.0 (2014-08-05)
 

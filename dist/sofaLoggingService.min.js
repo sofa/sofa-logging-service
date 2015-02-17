@@ -1,5 +1,5 @@
 /**
- * sofa-logging-service - v0.3.0 - Tue Feb 17 2015 12:58:47 GMT+0100 (CET)
+ * sofa-logging-service - v0.3.0 - Tue Feb 17 2015 13:00:48 GMT+0100 (CET)
  * http://www.sofa.io
  *
  * Copyright (c) 2014 CouchCommerce GmbH (http://www.couchcommerce.com / http://www.sofa.io) and other contributors
