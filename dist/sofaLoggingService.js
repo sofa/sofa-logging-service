@@ -1,13 +1,12 @@
 /**
- * sofa-logging-service - v0.3.0 - 2014-08-05
+ * sofa-logging-service - v0.3.0 - Tue Feb 17 2015 12:58:47 GMT+0100 (CET)
  * http://www.sofa.io
  *
  * Copyright (c) 2014 CouchCommerce GmbH (http://www.couchcommerce.com / http://www.sofa.io) and other contributors
- * THIS SOFTWARE CONTAINS COMPONENTS OF THE SOFA.IO COUCHCOMMERCE SDK (WWW.SOFA.IO).
+ * THIS SOFTWARE CONTAINS COMPONENTS OF THE SOFA.IO COUCHCOMMERCE SDK (WWW.SOFA.IO)
  * IT IS PROVIDED UNDER THE LICENSE TERMS OF THE ATTACHED LICENSE.TXT.
  */
-;(function (sofa, console, undefined) {
-
+;(function (sofa, document, undefined) {
 'use strict';
 /* global sofa */
 /* global console */
@@ -131,5 +130,4 @@ sofa.define('sofa.LoggingService', function (configService) {
 
     return self;
 });
-
-} (sofa, console));
+}(sofa, document));
