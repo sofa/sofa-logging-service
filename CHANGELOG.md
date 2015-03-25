@@ -1,3 +1,11 @@
+## 0.4.0 (2015-03-25)
+
+
+#### Bug Fixes
+
+* **bower.json:** fixes naming ([7b1799f9](https://github.com/sofa/sofa-logging-service/commit/7b1799f9cc38aa26527d48d344cad5e98b627332), closes [#1](https://github.com/sofa/sofa-logging-service/issues/1))
+
+
 ## 0.3.0 (2015-02-17)
 
 
